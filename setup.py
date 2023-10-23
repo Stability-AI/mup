@@ -16,8 +16,6 @@ setuptools.setup(
     install_requires=[
         'numpy',
         'pandas',
-        'torch',
-        'torchvision',
         'seaborn',
         'tqdm',
         'pyyaml'
